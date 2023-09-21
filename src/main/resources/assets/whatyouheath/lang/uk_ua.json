@@ -1,0 +1,6 @@
+{
+  "text.config.WhatConfig.option.ArmorShow": "Показати інфу про броню?",
+  "text.config.WhatConfig.option.HealthIndicator": "Індикатор здоров'я",
+  "text.config.WhatConfig.option.ArmorIndicator": "Індикатор броні",
+  "text.config.WhatConfig.title": "Скільки здоров'я?"
+}

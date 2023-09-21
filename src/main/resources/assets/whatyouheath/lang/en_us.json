@@ -1,0 +1,6 @@
+{
+  "text.config.WhatConfig.option.ArmorShow": "Show Armor Info?",
+  "text.config.WhatConfig.option.HealthIndicator": "Heath indicator",
+  "text.config.WhatConfig.option.ArmorIndicator": "Armor indicator",
+  "text.config.WhatConfig.title": "What u health?"
+}

@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "whatyouheath",
+	"version": "${version}",
+	"name": "whatYouHeath",
+	"description": "This is an Awesome mod!",
+	"authors": [
+		"Supchikwork2"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/Mikhailo",
+		"sources": "https://github.com/Supchik22/whatYouHeath"
+	},
+	"license": "MIT-1.0",
+	"icon": "assets/whatyouheath/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.supchikwork.maincos"
+		]
+	},
+	"mixins": [
+		"whatyouheath.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
